@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "ykdojo": {
+      "source": {
+        "source": "github",
+        "repo": "ykdojo/claude-code-tips"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "dx@ykdojo": true
+  }
+}
